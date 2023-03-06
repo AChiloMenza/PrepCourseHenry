@@ -1,2 +1,2 @@
 # PrepCourseHenry
-Este es un repositorio de pueba del modulo 2 de Henry
+Este comando es una prueba de clonacion de github
